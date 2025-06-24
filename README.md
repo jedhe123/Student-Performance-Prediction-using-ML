@@ -18,11 +18,11 @@ The Student Exam Performance Predictor project is developed for educational purp
 
 ## Technologies used
 
- ~ Frontend: HTML, CSS, JavaScript
- ~ Backend: Node.js
- ~ Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
- ~ Machine Learning: Linear Regression, Decision Trees.
- ~ Tools:VS Code
+ - Frontend: HTML, CSS, JavaScript
+ - Backend: Node.js
+ - Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
+ - Machine Learning: Linear Regression, Decision Trees.
+ - Tools:VS Code
 
 ## Usage
 
@@ -35,7 +35,7 @@ The Student Exam Performance Predictor project is developed for educational purp
 The machine learning model is trained using a supervised learning algorithm, such as a decision tree and linear regression, to predict the graphical representation based on the input features. The dataset is split into training and testing sets to evaluate the model's performance.
 
 ## Author
-Sanjana Dattatray Jedhe, You can also visit my GitHub profile: @skprasad117
+Sanjana Dattatray Jedhe, You can also visit my GitHub profile: [@jedhe123](https://github.com/)
 
 Feel free to reach out with any questions or feedback regarding the project.
 
