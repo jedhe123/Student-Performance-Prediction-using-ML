@@ -18,16 +18,11 @@ The Student Exam Performance Predictor project is developed for educational purp
 
 ## Technologies used
 
- Frontend:
-      HTML, CSS, JavaScript
- Backend:
-      Node.js
- Libraries:
-      Scikit-learn, Pandas, NumPy, Matplotlib
- Machine Learning:
-       Linear Regression, Decision Trees.
-  Tools:
-       VS Code
+ ~ Frontend: HTML, CSS, JavaScript
+ ~ Backend: Node.js
+ ~ Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
+ ~ Machine Learning: Linear Regression, Decision Trees.
+ ~ Tools:VS Code
 
 ## Usage
 
